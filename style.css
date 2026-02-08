@@ -176,7 +176,7 @@ ul {
 .hero {
     height: 100vh;
     /* No overlay for maximum clarity */
-    background: url('images/hero.jpg') no-repeat center center/cover;
+    background: url('images/hero(1).jpg') no-repeat center center/cover;
     /* Enhance perceived sharpness with contrast and saturation */
     filter: contrast(1.1) saturate(1.1);
     /* Fallback if image not found */
